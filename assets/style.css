@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header,
+footer {
+    width: 100%;
+    height: 120px;
+    background-color: #F7E8CE;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    height: 60px;
+    width: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    padding-left: 40px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+  }
+
+.card {
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid #D3D6FA;
+    box-shadow: 5px 8px #D3CEF7;
+  }
