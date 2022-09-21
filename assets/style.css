@@ -7,7 +7,7 @@ header,
 footer {
     width: 100%;
     height: 120px;
-    background-color: #F7E8CE;
+    background-color: #D3D6FA;
     color: rgb(0, 0, 0);
     font-family: 'Times New Roman', Times, serif;
 }
@@ -19,8 +19,8 @@ h2 {
 
 img {
     display: block;
-    height: 60px;
-    width: 60px;
+    height: 50px;
+    width: 50px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -28,7 +28,11 @@ img {
 ul {
     padding-left: 40px;
     font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: monospace;    
+}
+
+ol {
+    text-indent: 3%;
 }
 
 p {
