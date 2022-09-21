@@ -28,7 +28,11 @@ img {
 ul {
     padding-left: 40px;
     font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: monospace;    
+}
+
+ol {
+    text-indent: 3%;
 }
 
 p {
