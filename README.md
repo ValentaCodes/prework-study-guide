@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-In this guide you'll find sections on topics like HTML, CSS, Git, and Javascript to create and deploy a static webpage to the internet. Not sure what to study first? Check the DevTools console, and you'll see some Javascript code running.
+In this guide you'll find sections on topics like HTML, CSS, Git, and Javascript. Not sure what to study first? Check the DevTools console, and you'll see some Javascript code running.
 
 ## Credits
 
